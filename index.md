@@ -1,6 +1,3 @@
----
-layout: default
----
 # Header1
 
 ## Header2
@@ -12,6 +9,8 @@ layout: default
 ##### Header5
 
 ###### Header6
+
+
 
 {% include 01-name.md %}
 
